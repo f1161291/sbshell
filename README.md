@@ -36,10 +36,10 @@ https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_te
 
 ### 稳定版：  
 tproxy：
-https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_template/config_tproxy.json  
+https://raw.githubusercontent.com/f1161291/sbshell/refs/heads/master/config_template/config_tproxy.json  
 
 tun：
-https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_template/config_tun.json  
+https://raw.githubusercontent.com/f1161291/sbshell/refs/heads/master/config_template/config_tun.json  
 
 
 ## Youtube视频教程：
